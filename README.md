@@ -48,7 +48,7 @@
 
 <p align="center">
     <a href="https://github.com/khushiag23/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khushi Agrawal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khushiag23&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khushi Agrawal streak" src="https://streak-stats.demolab.com/?user=khushiag23&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -64,7 +64,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/khushiag23/github-readme-activity-graph"><img alt="Khushi Agrawal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khushiag23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/khushiag23/github-readme-activity-graph"><img alt="Khushi Agrawal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=khushiag23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
